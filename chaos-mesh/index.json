@@ -23,7 +23,7 @@
     },
     "finish": {
       "text": "step3.md"
-    }
+    },
   },
   "environment": {
     "uilayout": "terminal"
