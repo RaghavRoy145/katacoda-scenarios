@@ -6,11 +6,18 @@ Set up environment
 minikube start
 ```
 
+Check Kubernetes Installation
+
+```
+kubectl version 
+```
+
 Install chaos mesh
 
 ```
 curl -sSL https://mirrors.chaos-mesh.org/v1.0.3/install.sh | bash
 ```
+
 Verify installation
 
 ```
