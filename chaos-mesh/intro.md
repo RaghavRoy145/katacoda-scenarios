@@ -1,4 +1,4 @@
-In this Katacoda Scenario we will:
+In this Katacoda Scenario we will:-
 
 - Bootstrap a Kubernetes cluster
 - Install Chaos Mesh 
